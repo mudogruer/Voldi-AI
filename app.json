@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Tom Riddle'ın Günlüğü",
+    "slug": "voldi-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1a1a1a"
+      }
+    },
+    "fonts": {
+      "cursive": "./assets/fonts/Satisfy-Regular.ttf"
+    }
+  }
+} 
